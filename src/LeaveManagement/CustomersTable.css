@@ -1,0 +1,37 @@
+.active-members {
+    color:#33C8A5
+}
+
+.DocSearc{
+    width: 200px;
+    text-align: left;
+    font-weight: 200;
+}
+#heading-colors{
+    color: #BCBDC5;
+}
+
+.sort-dropdown {
+    width: 180px;
+}
+.Search-Customer{
+    margin-right: 40px;
+    width: 200px;
+    text-align: left;
+    font-weight: 200;
+}
+.dropDown-shortby{
+    margin-right: 0px;
+}
+.active-button{
+    /* border-color: #22bb97;
+    color: #00AC4F;
+    background-color: #A6E7D8; */
+    width: 100%;
+}
+.inactive-button{
+    border-color: #FFC5C5;
+    /* background-color: #FFC5C5;
+    color: #DF0606; */
+    width: 100%;
+}

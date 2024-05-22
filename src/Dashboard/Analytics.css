@@ -1,0 +1,60 @@
+.bi-people {
+    width: 40px;
+    height: 80px;
+    color: #08AF54;
+    
+  }
+  .bi-person-check{
+    width: 40px;
+    height: 80px;
+    color: #08AF54;
+  }
+  .bi-laptop{
+    width: 40px;
+    height: 80px;
+    color: #08AF54;
+  }
+  .icon-container{
+    background-color: #E1FFEF;
+    width: 80px;
+    height: 80px;
+    align-content: center;
+  }
+
+  .card-border {
+     width: 33%;
+  }
+
+  .card-border::after, .card-border::before {
+    content: "";
+    display: block;
+    width: 1px;
+    background-color: #f1f1f1;
+  }
+
+  .card-border::before {
+    margin-right: 40px;
+  }
+
+  
+  .card-border::after {
+    margin-left: 40px;
+  }
+  .arrow-icon{
+    height: 24px;
+    width: 24px;
+    text-align: left;
+  }
+  .arrow-icon2{
+    height: 24px;
+    width: 24px;
+    text-align: left;
+    color: red;
+  }
+  .text{
+    margin-top: 2px;
+    color: #00AC4F;
+  }
+  .size{
+    font-size: small;
+  }

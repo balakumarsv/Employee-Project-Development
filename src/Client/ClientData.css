@@ -1,0 +1,19 @@
+.style{
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #a1e8ff6e;
+    color: white;
+}
+.style:hover{
+    border: 3px solid rgb(249, 246, 246);
+}
+.card_div{
+    border: 2px solid #d7d5d5;
+}
+.card_div:hover{
+    background-color: #bcbbbb;
+    width: "305px";
+    height: "137px";
+    border: 2px solid #615f5f;
+}

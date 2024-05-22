@@ -1,0 +1,11 @@
+.login-page-container{
+    top: 18rem;
+    right: 6rem;
+}
+
+  .background-color-login{
+    background-image: url('https://img.freepik.com/premium-photo/abstract-background-images-wallpaper-ai-generated_643360-28994.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

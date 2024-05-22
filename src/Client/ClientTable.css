@@ -1,0 +1,31 @@
+.active-members {
+    color:#33C8A5
+}
+
+.DocSearc{
+    width: 200px;
+    text-align: left;
+    font-weight: 200;
+}
+#heading-colors{
+    color: #BCBDC5;
+}
+
+.sort-dropdown {
+    width: 180px;
+}
+.active-button{
+    /* color: #00AC4F;#615f5f
+    background-color: #A6E7D8;
+    border: 3px solid #00AC4F; */
+    width: 100%;
+    font-weight: 500;
+}
+.inactive-button{
+    /* border: 3px solid #DF0606;
+    background-color: #FFC5C5;
+    color: #DF0606; */
+    width: 100%;
+    font-weight: 500;
+
+}
